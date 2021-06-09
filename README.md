@@ -1,1 +1,2 @@
-# Jogo do Galo
+# Jogo da Cobra em JavaScript
+
