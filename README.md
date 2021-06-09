@@ -1,2 +1,2 @@
-# Jogo da Cobra em JavaScript
+# Jogo da Cobra em HTML+JavaScript
 
